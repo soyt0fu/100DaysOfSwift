@@ -11,6 +11,3 @@ este é o repositório do meu desafio `#100DaysOfSwift`, onde estudo swift por p
 
 ### recurso:
 - [100DaysOfSwift](https://www.hackingwithswift.com/100)
-
-### de quem é:
-- [t0fu](https://github.com/soyt0fu) ☾
